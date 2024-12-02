@@ -1,11 +1,23 @@
-# DataScience-KMeans-Grp30
+## Projeto: Implementação do Algoritmo K-Means
 
-## Projeto de Implementação Algoritimo KMeans - Residência CEPEDI 2024
-## Analisando e Explorando Dataset Human Activity Recognition
+### Equipe
+* Lucas Cardoso da Silva
+* Lígia Évelyn Pereira Amorim
 
-Projeto realizado pela dupla Lucas Cardoso da Silva e Lígia Évelyn Pereira Amorim
+### Descrição
+Este projeto, desenvolvido durante a Residência CEPEDI 2024, tem como objetivo implementar e analisar o algoritmo K-Means utilizando o dataset Human Activity Recognition.
 
-## Procedimento para Executar:
-1.Importar o notebook no Google Colab
-2.Baixar o Dataset Human Activity Recognition baixado do site do Kaggle 
-3.Realizar Upload do Dataset no Google Drive que sera utilizado no codigo fonte do Notebook
+### Dataset
+* **Fonte:** Kaggle
+* **Descrição:** O dataset contém informações sobre "Human Activity Recognition Using Smartphones" para agrupar atividades humanas baseadas em dados de sensores
+
+### Procedimento
+1. **Configuração:**
+   * Importar o notebook para o Google Colab.
+   * Baixar o dataset do Kaggle.
+   * Fazer upload do dataset para o Google Drive.
+2. **Análise Exploratória:**
+   * Carregar os dados.
+   * Visualizar as primeiras linhas.
+   * Analisar a distribuição das features.
+   * Verificar a existência de valores ausentes.
